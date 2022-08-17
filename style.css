@@ -1,0 +1,33 @@
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 46px;
+    color: #ob1011a;
+    background-color: aliceblue; 
+}
+
+.strawberry {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.link {
+    text-align: center;
+    font-family: Georgia, serif; 
+}
+
+.icecream{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.pie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
